@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nandainun.github.io//Portfolio/static/css/main.14187430.css",
-    "main.js": "/nandainun.github.io//Portfolio/static/js/main.cfb7f970.js",
-    "static/js/787.749b4a44.chunk.js": "/nandainun.github.io//Portfolio/static/js/787.749b4a44.chunk.js",
-    "static/media/profile.jpg": "/nandainun.github.io//Portfolio/static/media/profile.6f85265c2069dd1ab2ed.jpg",
-    "index.html": "/nandainun.github.io//Portfolio/index.html",
-    "main.14187430.css.map": "/nandainun.github.io//Portfolio/static/css/main.14187430.css.map",
-    "main.cfb7f970.js.map": "/nandainun.github.io//Portfolio/static/js/main.cfb7f970.js.map",
-    "787.749b4a44.chunk.js.map": "/nandainun.github.io//Portfolio/static/js/787.749b4a44.chunk.js.map"
+    "main.css": "/portfolio-website/static/css/main.14187430.css",
+    "main.js": "/portfolio-website/static/js/main.49aee574.js",
+    "static/js/787.749b4a44.chunk.js": "/portfolio-website/static/js/787.749b4a44.chunk.js",
+    "static/media/profile.jpg": "/portfolio-website/static/media/profile.6f85265c2069dd1ab2ed.jpg",
+    "index.html": "/portfolio-website/index.html",
+    "main.14187430.css.map": "/portfolio-website/static/css/main.14187430.css.map",
+    "main.49aee574.js.map": "/portfolio-website/static/js/main.49aee574.js.map",
+    "787.749b4a44.chunk.js.map": "/portfolio-website/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14187430.css",
-    "static/js/main.cfb7f970.js"
+    "static/js/main.49aee574.js"
   ]
 }
