@@ -4,7 +4,7 @@ import { FaGithub, FaTwitter, FaInstagram, FaEnvelope } from "react-icons/fa";
 
 function Card() {
   return (
-    <div className="w-full">
+    <div className="w-full" id="Home">
       <div className="flex flex-col justify-center max-w-xs mx-auto bg-white shadow-xl rounded-xl p-5">
         <div className="">
           <img className="w-32 mx-auto shadow-xl rounded-full drop-shadow-sm" src={profile} alt="profile card" />
